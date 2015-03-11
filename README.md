@@ -1,2 +1,2 @@
-# magento-language-french
-French Language Pack
+# Magento French Language Pack
+
